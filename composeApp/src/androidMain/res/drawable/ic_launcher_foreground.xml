@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- A simple speed-gauge glyph: dial ring + needle, kept inside the 66dp adaptive-icon safe zone. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeWidth="6"
+        android:pathData="M24,54 A30,30 0 1,1 84,54 A30,30 0 1,1 24,54 Z" />
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M51,57 L72,36 L57,51 Z" />
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M49,54 A5,5 0 1,1 59,54 A5,5 0 1,1 49,54 Z" />
+</vector>
